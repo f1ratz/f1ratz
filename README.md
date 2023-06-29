@@ -24,7 +24,6 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00DCFF&repeat=false&background=69FF2000&center=true&vCenter=true&width=435&lines=Badge's" alt="Typing SVG" /></h2>
 <h2 align="center">
-<img align="center" alt="fırat" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
  <img align="center" alt="fırat" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
  <img align="center" alt="fırat" width="40px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
  <img align="center" alt="fırat" width="40px" src="https://cdn.discordapp.com/emojis/963191315049353297.gif?size=128&quality=lossless" />
